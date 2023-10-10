@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Vcardwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FDFA218A26AF48D680B19FBB77F736C4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8F5F39CF172F4AEE8CFF0488D5A77B90 }}
           package: .
